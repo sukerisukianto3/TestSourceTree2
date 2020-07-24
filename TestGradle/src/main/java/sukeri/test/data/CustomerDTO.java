@@ -14,7 +14,7 @@ public class CustomerDTO {
 	}
 	
 	public void calculate(int in) {
-		
+		int curValue = 0;
 	}
 
 }
