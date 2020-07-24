@@ -1,0 +1,7 @@
+/.metadata/
+RemoteSystemsTempFiles/.project
+TestGradle/.classpath
+TestGradle/.gitignore
+TestGradle/.project
+TestGradle/.settings/
+TestGradle/gradle/wrapper/
