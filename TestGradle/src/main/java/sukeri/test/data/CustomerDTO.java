@@ -3,8 +3,8 @@ package sukeri.test.data;
 public class CustomerDTO {
 
 	private String name;
-private String firstName;
-	
+	private String firstName;
+
 	public String getName() {
 		return name;
 	}
@@ -13,5 +13,8 @@ private String firstName;
 		this.name = name;
 	}
 	
-	
+	public void calculate(int in) {
+		
+	}
+
 }
